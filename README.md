@@ -1,1 +1,1 @@
-# Using-Python-Module-My-Semester-Wise-Results-Showcase
+# Using-Kotlin-Jetpack-Compose-Build-Recipe-App
